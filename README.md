@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning SAP and Machine learning ( CNN ).
 - 👯 I thrive in team environments.
 - 😄 Pronouns: he/him.
+- 📫 How to reach me **sayeh.aladdin@gmail.com**
 - ⚡ Fun fact: In another life, I used to be a kickboxer 🥊, a gamer 🎮 and a camper 🏕️.
 - 💬 Ask me about anything.
 

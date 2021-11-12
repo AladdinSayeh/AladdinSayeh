@@ -33,7 +33,7 @@
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://logowiki.net/wp-content/uploads/imgp/abap-Logo-1-3323.jpg" alt="ABAP" width="65" height="40"/>
+<a href="#" target="_blank"> <img src="https://logowiki.net/wp-content/uploads/imgp/abap-Logo-1-3323.jpg" alt="ABAP" width="65" height="40"/> </a>
 
 - Programming frameworks<br/><br/>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
@@ -43,14 +43,14 @@
 <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/jee.png" alt="jee" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/jee.png" alt="jee" width="40" height="40"/></a>
 
 - Database<br/><br/>
 <a href="#" target="_blank"> <img src="https://icongr.am/devicon/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://icongr.am/devicon/mysql-original.svg" alt="mysql" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
 
 - Environment<br/><br/>
 <a href="#" target="_blank"> <img src="https://developer.android.com/studio/images/studio-icon.svg" alt="Android Studio" width="40" height="40"/>
@@ -58,12 +58,12 @@
 <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vsCode" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" width="40" height="40"/></a>
 
 - Operating system<br/><br/>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="windows" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://seeklogo.com/images/M/mac-os-x-logo-C3B37FBB68-seeklogo.com.png" alt="macos-sierra" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://seeklogo.com/images/M/mac-os-x-logo-C3B37FBB68-seeklogo.com.png" alt="macos-sierra" width="40" height="40"/></a>
 
 - Programming libraries<br/><br/>
 <a href="#" target="_blank"> <img src="https://icongr.am/devicon/jquery-original.svg" alt="jquery" width="40" height="40"/>
@@ -75,13 +75,13 @@
 <a href="#" target="_blank"> <img src="https://www.logiciels.pro/wp-content/uploads/2021/05/keras-avis-prix-alternatives-logiciel.webp" alt="keras" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://3wa.fr/wp-content/uploads/2020/04/Python-Pandas-logo.png" alt="pandas" width="30" height="40"/>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="opencv" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="opencv" width="40" height="40"/></a>
 
 - Others<br/><br/>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://www.yteria.com/assets/images/services/fiori.png" alt="fiori" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://www.yteria.com/assets/images/services/fiori.png" alt="fiori" width="40" height="40"/></a>
 
 <br/>
 

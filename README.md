@@ -53,7 +53,7 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
 
-- Environment<br/><br/>
+- Integrated development environment (IDE)<br/><br/>
 <a href="#" target="_blank"> <img src="https://developer.android.com/studio/images/studio-icon.svg" alt="Android Studio" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40"/>
 <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>

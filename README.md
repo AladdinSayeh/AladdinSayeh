@@ -2,11 +2,11 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AladdinSayeh.AladdinSayeh) [![Github](https://img.shields.io/github/followers/AladdinSayeh?label=Followers&logo=Github)](https://github.com/AladdinSayeh)
 
-## I'm a full stack developer, designer and Information systems and software Engineer Student living and studying in Tunisia, TN.
+## I'm a full stack developer, designer and Information systems and software Engineer living and working in Tunisia, TN.
 
 - 💻 I’m currently developing mobile apps with React Native.
-- 💻 I’m currently developing web apps with MERN Stack.
-- 🌱 I’m currently learning SAP and Machine learning ( CNN ).
+- 💻 I’m currently developing web apps with MERN Stack / SAP FIORI & UI5.
+- 🌱 I’m currently learning artificial intelligence & cloud computing.
 - 👯 I thrive in team environments.
 - 😄 Pronouns: he/him.
 - 📫 How to reach me **sayeh.aladdin@gmail.com**

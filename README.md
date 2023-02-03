@@ -4,8 +4,7 @@
 
 ## I'm a full stack developer, designer and Information systems and software Engineer living and working in Tunisia, TN.
 
-- 💻 I’m currently developing mobile apps with React Native.
-- 💻 I’m currently developing web apps with MERN Stack / SAP FIORI & UI5.
+- 💻 I’m currently developing web apps with SAP FIORI & UI5 & ABAP.
 - 🌱 I’m currently learning artificial intelligence & cloud computing.
 - 👯 I thrive in team environments.
 - 😄 Pronouns: he/him.

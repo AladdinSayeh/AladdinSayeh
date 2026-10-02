@@ -1,90 +1,66 @@
-<h1 align="center">Hi there 👋 I'm Mohamed Aladdin Sayeh but you can call me Kubix 😀</h1>
+<!-- ===== Header ===== -->
+<h1 align="center">Hi there 👋 I'm Mohamed Aladdin Sayeh, but you can call me Kubix 😀</h1>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=AladdinSayeh.AladdinSayeh) [![Github](https://img.shields.io/github/followers/AladdinSayeh?label=Followers&logo=Github)](https://github.com/AladdinSayeh)
+<!-- Visitor counter + follower badge -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AladdinSayeh.AladdinSayeh" alt="visitors" />
+  <a href="https://github.com/AladdinSayeh"><img src="https://img.shields.io/github/followers/AladdinSayeh?label=Followers&logo=Github" alt="GitHub followers" /></a>
+</p>
 
-## I'm a full stack developer, designer and Information systems and software Engineer living and working in Tunisia, TN.
+<!-- ===== Intro ===== -->
+## SAP Development Consultant based in the Netherlands 🇳🇱
 
-- 💻 I’m currently developing web apps with SAP FIORI & UI5 & ABAP.
-- 🌱 I’m currently learning artificial intelligence & cloud computing.
+- 💼 Development Consultant at **Acorel**, building customer-experience solutions on SAP.
+- 💻 Day to day I work on **SAP Cloud for Customer (C4C)** extensions with the PDI/SDK, writing **ABSL** in SAP Cloud Application Studio.
+- 🧩 I also work across **ABAP, RAP, CAP, Fiori Elements / UI5, SAP CPI and OData**.
+- 🏭 Previously at **Forvia (formerly Faurecia)**, on ABAP backend and Fiori frontend development.
+- 🌱 Currently learning more about artificial intelligence and cloud computing.
 - 👯 I thrive in team environments.
-- 😄 Pronouns: he/him.
-- 📫 How to reach me **sayeh.aladdin@gmail.com**
-- ⚡ Fun fact: In another life, I used to be a kickboxer 🥊, a gamer 🎮 and a camper 🏕️.
-- 💬 Ask me about anything.
+- 📫 Reach me at **sayeh.aladdin@gmail.com**
+- ⚡ Fun fact: outside of work I'm into kickboxing 🥊, gaming 🎮 and camping 🏕️.
+- 💬 Ask me about anything SAP.
 
-
+<!-- ===== Socials ===== -->
 ## 🌐 Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sayeh-aladdin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AladdinSayeh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aladdin.sayeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AladdinSayeh" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sayeh-aladdin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/aladdin.sayeh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
+<!-- ===== Skills ===== -->
+## 🧰 Skills
 
-## 🧰 Summary of skills
+<!-- SAP stack first, since it's the main focus now. Badges use shields.io + Simple Icons. -->
+### SAP
+<p>
+  <img src="https://img.shields.io/badge/SAP%20C4C-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP C4C" />
+  <img src="https://img.shields.io/badge/PDI%20%2F%20SDK-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="PDI/SDK" />
+  <img src="https://img.shields.io/badge/ABSL-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="ABSL" />
+  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP" />
+  <img src="https://img.shields.io/badge/RAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="RAP" />
+  <img src="https://img.shields.io/badge/CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="CAP" />
+  <img src="https://img.shields.io/badge/Fiori%20%2F%20UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="Fiori / UI5" />
+  <img src="https://img.shields.io/badge/SAP%20CPI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP CPI" />
+  <img src="https://img.shields.io/badge/OData-0FAAFF?style=for-the-badge&logo=odata&logoColor=white" alt="OData" />
+</p>
 
-- Programming languages <br/><br/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://logowiki.net/wp-content/uploads/imgp/abap-Logo-1-3323.jpg" alt="ABAP" width="65" height="40"/> </a>
+<!-- The rows below use skillicons.dev: one image per row, no broken third-party logo links -->
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,php,html,css" alt="languages" />
 
-- Programming frameworks<br/><br/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://icongr.am/devicon/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://icongr.am/devicon/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/jee.png" alt="jee" width="40" height="40"/></a>
+### Frameworks & libraries
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,angular,vue,react,redux,symfony,bootstrap,jquery,tensorflow" alt="frameworks" />
 
-- Database<br/><br/>
-<a href="#" target="_blank"> <img src="https://icongr.am/devicon/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://icongr.am/devicon/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" alt="databases" />
 
-- Integrated development environment (IDE)<br/><br/>
-<a href="#" target="_blank"> <img src="https://developer.android.com/studio/images/studio-icon.svg" alt="Android Studio" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vsCode" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" width="40" height="40"/></a>
+### Tools, cloud & IDEs
+<img src="https://skillicons.dev/icons?i=git,azure,visualstudio,vscode,eclipse,androidstudio,linux,windows,apple" alt="tools" />
 
-- Operating system<br/><br/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="windows" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://seeklogo.com/images/M/mac-os-x-logo-C3B37FBB68-seeklogo.com.png" alt="macos-sierra" width="40" height="40"/></a>
+<!-- ===== Stats ===== -->
+## 🏆 GitHub stats
 
-- Programming libraries<br/><br/>
-<a href="#" target="_blank"> <img src="https://icongr.am/devicon/jquery-original.svg" alt="jquery" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.filestackcontent.com/l0WgHDttQ1m1YFrT5ves" alt="hibernate" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/numpy.svg" alt="numpy" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/langfr-220px-Tensorflow_logo.svg.png" alt="tensorflow" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://www.logiciels.pro/wp-content/uploads/2021/05/keras-avis-prix-alternatives-logiciel.webp" alt="keras" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://3wa.fr/wp-content/uploads/2020/04/Python-Pandas-logo.png" alt="pandas" width="30" height="40"/>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="opencv" width="40" height="40"/></a>
-
-- Others<br/><br/>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-<a href="#" target="_blank"> <img src="https://www.yteria.com/assets/images/services/fiori.png" alt="fiori" width="40" height="40"/></a>
-
-<br/>
-
-## :trophy: My Github Stats
-
-![AladdinSayeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AladdinSayeh&theme=vision-friendly-dark&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AladdinSayeh&theme=vision-friendly-dark&show_icons=true" alt="AladdinSayeh's GitHub stats" />
+</p>

@@ -15,6 +15,7 @@
 - 🧩 I also work across **ABAP, RAP, CAP, Fiori Elements / UI5, SAP CPI and OData**.
 - 🏭 Previously at **Forvia (formerly Faurecia)**, on ABAP backend and Fiori frontend development.
 - 🌱 Currently learning more about artificial intelligence and cloud computing.
+- 🐉 In my free time, I customize **World of Warcraft addons** and fix their bugs, using **Lua**, **XML** and the **WoW API**.
 - 👯 I thrive in team environments.
 - 📫 Reach me at **sayeh.aladdin@gmail.com**
 - ⚡ Fun fact: outside of work I'm into kickboxing 🥊, gaming 🎮 and camping 🏕️.
@@ -46,6 +47,14 @@
 </p>
 
 <!-- The rows below use skillicons.dev: one image per row, no broken third-party logo links -->
+<!-- Side project: World of Warcraft addon customization and bug fixing -->
+### World of Warcraft addon development
+<p>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/WoW%20API-148EFF?style=for-the-badge&logo=battledotnet&logoColor=white" alt="WoW API" />
+</p>
+
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,php,html,css" alt="languages" />
 
